@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/cardView_1"
+            android:onClick="clickButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/card_margin"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            app:cardCornerRadius="25dp"
+            app:cardElevation="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:orientation="vertical"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:paddingTop="14dp">
+
+                <TextView
+                    android:id="@+id/textView_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp"
+                    android:singleLine="true"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:transitionName="text_detail"
+                    android:text="JavaSE第一周"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <RelativeLayout
+                        android:layout_width="140dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical">
+
+                        <ImageView
+                            android:id="@+id/imageView_teacherpic"
+                            android:layout_width="140dp"
+                            android:layout_height="94dp"
+                            android:src="@mipmap/steven"/>
+
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="left|center"
+                        android:orientation="vertical"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="12dp">
+
+
+                        <TextView
+                            android:id="@+id/textView_teacher"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:textSize="14sp"
+                            android:transitionName="text_teacher"
+                            android:text="讲师"
+                            android:textColor="#00f"
+                            android:layout_marginBottom="10dp"/>
+
+                        <TextView
+                            android:id="@+id/textView_quotation"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:text="讲师语录"
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            style="@style/CardViewStyle"
+            app:cardCornerRadius="25dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/textView_teacherdesc"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:padding="20dp"
+                android:text="个人简介"/>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            style="@style/CardViewStyle"
+            app:cardCornerRadius="25dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/textView_w1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:padding="20dp"
+                android:text=""
+                />
+
+        </android.support.v7.widget.CardView>
+
+
+
+        <android.support.v7.widget.CardView
+            style="@style/CardViewStyle"
+            app:cardCornerRadius="25dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/textView_w2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:padding="20dp"
+                android:text=""
+                />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            style="@style/CardViewStyle"
+            app:cardCornerRadius="25dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/textView_w3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:padding="20dp"
+                android:text=""
+                />
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            style="@style/CardViewStyle"
+            app:cardCornerRadius="25dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/textView_w4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:padding="20dp"
+                android:text=""/>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.CardView
+            style="@style/CardViewStyle"
+            app:cardCornerRadius="25dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/textView_w5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:padding="20dp"
+                android:text=""/>
+
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrTabTitles">
+        <item>Android</item>
+        <item>HTML5</item>
+        <item>iOS</item>
+        <item>移动UI设计</item>
+    </string-array>
+
+    <array name="arrItemTitle">
+        <item>JavaSE第1周</item>
+        <item>JavaSE第2周</item>
+        <item>JavaSE第3周</item>
+        <item>JavaSE第4周</item>
+        <item>JavaSE第5周</item>
+        <item>JavaSE第6周</item>
+        <item>Android基础第1周</item>
+        <item>Android基础第2周</item>
+        <item>Android基础第3周</item>
+        <item>Android基础第4周</item>
+        <item>Android基础第5周</item>
+        <item>Android基础第6周</item>
+        <item>Android高级第1周</item>
+        <item>Android高级第2周</item>
+        <item>Android高级第3周</item>
+        <item>Android实训第1周</item>
+        <item>Android实训第2周</item>
+        <item>Android实训第3周</item>
+    </array>
+
+    <array name="arrItemTeacher">
+        <item>Running</item>
+        <item>Running</item>
+        <item>Running</item>
+        <item>Running</item>
+        <item>Running</item>
+        <item>Running</item>
+        <item>Running</item>
+        <item>Running</item>
+        <item>Running</item>
+        <item>Steven</item>
+        <item>Steven</item>
+        <item>Steven</item>
+        <item>Steven</item>
+        <item>Steven</item>
+        <item>Steven</item>
+        <item>Mars</item>
+        <item>Mars</item>
+        <item>Mars</item>
+    </array>
+
+    <array name="arrItemDesc">
+        <item>1、Java语法入门</item>
+        <item>2、OOP编程</item>
+        <item>3、Java核心API</item>
+        <item>4、网络与WEB应用1</item>
+        <item>5、网络与WEB应用2</item>
+        <item>6、Html5基础</item>
+        <item>1、UI基础</item>
+        <item>2、应用核心组件初识</item>
+        <item>3、数据存储及相关组件</item>
+        <item>4、移动开发主流界面实现</item>
+        <item>5、应用核心组件进阶</item>
+        <item>6、View深入探究</item>
+        <item>1、常用第三方框架</item>
+        <item>2、Android5.0材料设计</item>
+        <item>3、媒体、推送、支付及加密</item>
+        <item>1、APP实战开发项目一</item>
+        <item>2、APP实战开发项目二</item>
+        <item>3、APP实战开发项目三及毕业设计答辩</item>
+    </array>
+
+    <array name="arrItemLevel">
+        <item>2</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+    </array>
+
+    <array name="arrItemImage">
+        <item>@mipmap/img00_0</item>
+        <item>@mipmap/img00_1</item>
+        <item>@mipmap/img00_2</item>
+        <item>@mipmap/img00_3</item>
+        <item>@mipmap/img00_4</item>
+        <item>@mipmap/img00_5</item>
+        <item>@mipmap/img00_6</item>
+        <item>@mipmap/img00_7</item>
+        <item>@mipmap/img00_8</item>
+        <item>@mipmap/img00_9</item>
+        <item>@mipmap/img00_10</item>
+        <item>@mipmap/img00_11</item>
+        <item>@mipmap/img00_12</item>
+        <item>@mipmap/img00_13</item>
+        <item>@mipmap/img00_14</item>
+        <item>@mipmap/img00_15</item>
+        <item>@mipmap/img00_16</item>
+        <item>@mipmap/img00_17</item>
+    </array>
+
+    <array name="arrTeacherName">
+        <item>Running</item>
+        <item>Steven</item>
+        <item>Mars</item>
+    </array>
+
+    <array name="arrTeacherPic">
+        <item>@mipmap/running</item>
+        <item>@mipmap/steven</item>
+        <item>@mipmap/mars</item>
+    </array>
+
+    <array name="arrQuotation">
+        <item>讲师语录：只有对自己提出更高的要求，梦想才会离你更近一步！</item>
+        <item>讲师语录：经常往上看，你会长高，老是低头捡便宜，就会驼背！</item>
+        <item>讲师语录：每天唤醒你的不应该是闹钟，而是梦想！</item>
+    </array>
+
+    <array name="arrTeacherDesc">
+        <item>个人简介：（Runing）Android，html5学科高级讲师，从事IT行业近10年，十年工作经验，5年的培训经验，近4年的开发经验。多年的软件开发经验, 涉及企业办公、移动通讯等项目开发领域。如医疗远程教育, 乐购网上购物，驴友天下，穷游，掌上营业厅等项目，参与编写出版《Java开发实战经典》等教材。了解android底层架构，对android开发有自己的认识，并熟悉html5与android的混合式开发。授课思路清晰，对android和html5更是有自己独到的见解和认识，善于从学员的角度剖析开发语言的专业知识，注重对学生思考能力、开发能力、解决问题能力以及自学能力的培养。</item>
+        <item>个人简介：（Steven）Android、html5学科高级讲师，从事IT行业13年，7年编程开发，6年IT培训经验。自2003年始，分别从事网页制作、Asp、Asp.net、Java、PHP等WEB开发，2008年步入Android移动开发行列，2010年进入到IT培训行业，先后从事PHP、Android、HTML5及ActionScript教学。依次担任过3158IT公司技术总监、八维软工学院教研主任、八维游戏学院院长、千锋互联教研部培训经理等职务。Steven老师讲课风格平实可亲，善于将复杂技术简单化、生活化。善于引导学生自主学习，让学生不仅听得懂，更能记得住、说得出。Steven老师热衷研究英语词汇记忆，在教学过程中学生不仅能学习编程技术，更能轻松掌握英语词汇。</item>
+        <item>个人简介：（Mars）移动互联网行业数十万程序员的偶像.精通Android、iOS、HTML5</item>
+    </array>
+
+    <array name="arrCourseWeekDesc">
+        <item>第1天： Android环境搭建及工程目录介绍
+            1.1 Android开发(版本：SDK21及以上版本)环境搭建
+            1.1.1 Android SDK目录介绍(重点介绍docs中api)
+            1.1.2 Eclipse界面介绍
+            1.1.3 Eclipse常规设置(字符集(utf-8)设置等)
+            1.1.4 AVD设置
+            1.2 Android发展史、移动设备操作系统、四层系统架构等理论知识
+            1.2.1 Android发展史介绍
+            1.2.2 移动设备操作系统介绍
+            1.2.3 Android四层系统架构的介绍
+            1.3 HelloWorld程序
+            1.3.1 编写HelloWorld程序
+            1.3.2 Eclipse开发APP的目录结构介绍
+            1.4 adb shell简介(install uninstall)</item>
+        <item>第2天： 常用UI布局及主要控件
+            2.1 LinearLayout【重点讲解】
+            2.1.1 View常用属性
+            android:id
+            android:background
+            android:onClick
+            android:padding
+            android:visibility
+            android:alpha
+            android:layout_height
+            android:layout_width
+            android:layout_margin
+            2.1.2 Android中长度单位的概念、区别及转换公式（sp、dp、dip、px、dpi)
+            2.1.3 LinearLayout特有属性
+            android:orientation
+            android:layout_weight
+            android:gravity
+            android:layout_gravity
+            android:weightSum(权重总和)
+            2.2 RelativeLayout
+            2.2.1 RelativeLayout特有属性（15个）
+            A、第一组：指兄弟控件之间的相对位置。该组属性的值是另一个控件的id。
+            layout_toRightOf
+            layout_toLeftOf
+            layout_above
+            layout_below
+
+            B、第二组：指兄弟控件之间的对齐关系。该组属性的值是另一个控件的id。
+            layout_alignRight
+            layout_alignLeft
+            layout_alignTop
+            layout_alignBottom
+
+            C、第三组：指控件与父布局之间的对齐关系。该组属性的值是true或者false。
+            layout_alignParentRight
+            layout_alignParentLeft
+            layout_alignParentTop
+            layout_alignParentBottom
+            layout_centerInParent
+            layout_centerVertical
+            layout_centerHorizontal
+            2.3 FrameLayout
+            2.4 GridLayout
+            2.4.1 GridLayout 特有属性
+            android:layout_column
+            android:layout_row
+            android:layout_columnSpan
+            android:layout_rowSpan
+            android:layout_gravity
+            2.5 TextView基本用法
+            2.5.1 TextView属性
+            andorid:text
+            android:textColor
+            android:textSize
+            android:singleLine
+            android:gravity
+            android:drawableLeft
+            android:drawableRight
+            android:drawableTop
+            android:drawableBottom
+            android:autoLink</item>
+        <item>第3天： 表单UI控件及相应控件的事件处理
+            3.1 EditText、Button、ImageView
+            3.1.1 EditText常用属性介绍
+            android:inputType
+            android:hint
+            android:imeOptions
+            3.1.2 Button常用属性介绍及监听器使用
+            android:onClick
+            Button绑定监听器方式
+            3.1.3 ImageView常用属性介绍
+            andorid:src
+            android:adjustViewBounds
+            android:maxHeight
+            andorid:maxWidth
+            android:scaleType
+            3.2 RadioButton及RadioGroup的用法【重点】
+            3.2.1 RadioButton、RadioGroup的常用属性
+            3.2.2 绑定RadioGroup特有监听器
+            3.3 CheckBox的多选效果及监听
+            3.3.1 CheckBox的常用属性
+            3.3.2 绑定CheckBox特有监听器
+            3.4 Toast的基本用法</item>
+        <item>第4天： Spinner、AutoCompleteTextView、ScrollView及适配器、数组资源
+            4.1 Spinner
+            4.1.1 Spinner的常用属性  android:entries
+            4.1.2 Spinner的常用方法
+            4.2 适配器
+            4.2.1 适配器的介绍
+            4.2.2 ArrayAdapter的介绍及使用
+            4.3 数组资源
+            4.3.1 定义数组资源
+            4.3.2 获取数组资源
+            4.4 AutoCompleteTextView
+            4.4.1 AutoCompleteTextView的常用属性
+            4.4.2 AutoCompleteTextView的常用方法
+            4.5 ScrollView
+            4.5.1 垂直ScrollView的使用
+            4.5.2 HorizontalScrollView的使用
+            4.6 ProgressBar、SeekBar、RatingBar
+            4.6.1 ProgressBar的基本用法
+            4.6.2 SeekBar的基本用法及美化
+            4.6.3 RatingBar的基本用法及美化</item>
+        <item>第5天： UI美化及Android资源
+            5.1 Style的简单用法
+            5.1.1 style的基本使用
+            5.1.2 style的继承
+            5.1.3 利用selector及shape修改多选框的显示效果
+            5.1.4 利用selector实现选中与否、改变默认RadioButton的显示效果
+            5.2 Android资源汇总
+            5.2.1 id、字符串资源、颜色资源、尺寸资源、布局资源、数组资源、样式和主题资源
+            5.2.2 菜单资源、图像资源、特殊Drawable资源、动画资源
+            5.2.3 原生xml资源、raw资源、自定义属性资源
+        </item>
+    </array>
+
+</resources>
